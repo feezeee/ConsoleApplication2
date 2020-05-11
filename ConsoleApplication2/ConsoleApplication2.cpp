@@ -26,4 +26,8 @@ int main()
 	}
 	cout << "Ответ: " << h* rezult;
 }
+double vectors()
+{
+	string as = "hello";
+}
 
