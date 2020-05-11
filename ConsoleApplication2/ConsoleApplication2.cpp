@@ -4,8 +4,6 @@ using namespace std;
 const double a = -2;
 const double b = 3;
 
-double hiden;
-string den = "den just do it";
 
 double calculateValue(double x)
 {
