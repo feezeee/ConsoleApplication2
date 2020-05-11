@@ -4,6 +4,8 @@ using namespace std;
 const double a = -2;
 const double b = 3;
 
+double hiden;
+
 double calculateValue(double x)
 {
 	double rezult = 4 * x - 7 * sin(x);
