@@ -5,7 +5,6 @@ const double a = -2;
 const double b = 3;
 
 int g = 231213123213;
-int fasdfdsa;
 
 double calculateValue(double x)
 {
